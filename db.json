@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post a" },
+    { "id": 2, "title": "Post b" },
+    { "id": 3, "title": "Post c" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "subscribe": [
+    { "id": 1, "body": "i'm jack", "postId": 1 },
+    { "id": 2, "body": "my name john cell", "postId": 2 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "hello world"
   }
 }
